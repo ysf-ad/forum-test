@@ -1,0 +1,20 @@
+{
+	"queue": "תור",
+	"description": "אין משתמשים בתור ההרשמה. <br> כדי לאפשר את תור ההרשמה, גשו ל<a href=\"%1\">הגדרות &rarr; משתמש &rarr; רישום משתמש</a> והגדר את <strong>סוג רישום</strong> ל\"אישור מנהל\".",
+
+	"list.name": "שם",
+	"list.email": "אימייל",
+	"list.ip": "IP",
+	"list.time": "זמן",
+	"list.username-spam": "Frequency: %1 Appears: %2 Confidence: %3",
+	"list.email-spam": "Frequency: %1 Appears: %2",
+	"list.ip-spam": "Frequency: %1 Appears: %2",
+
+	"invitations": "הזמנות",
+	"invitations.description": "להלן רשימה של הזמנות שנשלחו. השתמש ב- Ctrl+F כדי לחפש בתוך הרשימה על פי אימייל או שם משתמש. <br><br>שם המשתמש יוצג בצד ימין של האימייל למשתמשים שממשו את הזמנתם.",
+	"invitations.inviter-username": "משתמש מזמין",
+	"invitations.invitee-email": "מייל מוזמן",
+	"invitations.invitee-username": "משתמש מוזמן (אם נרשם)",
+
+	"invitations.confirm-delete": "האם אתה בטוח שאתה רוצה למחוק את ההזמנה?"
+} 
