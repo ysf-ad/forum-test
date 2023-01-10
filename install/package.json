@@ -51,7 +51,7 @@
         "connect-pg-simple": "^7.0.0",
         "connect-redis": "6.0.0",
         "cookie-parser": "^1.4.5",
-        "cron": "^1.8.2",
+        "cron": "^2.2.0",
         "cropperjs": "^1.5.11",
         "csurf": "^1.11.0",
         "daemon": "^1.1.0",
